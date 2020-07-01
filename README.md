@@ -1,2 +1,2 @@
 # selenium-test
-test cases for learning selenium
+selenium 学习教程
